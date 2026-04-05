@@ -1,4 +1,4 @@
-# smart-cart-clustering-systsem
+# smart-cart-clustering-system
 
 An unsupervised machine learning project that segments customers into cluters according to their behavior.
 
